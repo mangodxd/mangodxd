@@ -1,69 +1,63 @@
-# 💫 About Me
+<div align="center">
 
-i'm a student exploring fullstack development with a focus on building real, usable products.
+### Hey, I'm **Nguyễn Công Thuận Huy** 👋
 
-🔭 currently working on improving practical software and writing clean, scalable code  
-🌱 learning system design, modern frameworks, and performance optimization  
-👯 open to collaborating on meaningful and challenging projects  
-🤝 looking to grow through real-world problem solving and shared knowledge  
-💬 ask me about coding, debugging, or anything tech-related  
-⚡ i enjoy turning complex problems into simple solutions  
+**Building things that work.**
 
----
+Fullstack developer obsessed with clean code, automation, and making machines smarter.
+124 repos and counting — each one a problem I couldn't stop thinking about.
 
-## 🚀 Selected Projects
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/heyimboone)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyencongthuanhuy@gmail.com)
 
-- **youtube-auto-dub** → automatic dubbing tool (247★)  
-- **iris** → extract and recreate any website design  
-- **ký đi rồi tính** → online graduation signing platform  
-- **đoán số** → a simple web-based game  
+</div>
 
 ---
 
-## 🌐 Socials
+## What I Do
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/heyimboone)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyencongthuanhuy@gmail.com)  
+```
+AI & Automation     →  making tools that think for themselves
+Security            →  breaking things so others don't have to
+Fullstack           →  from database to deployment, end to end
+Open Source         →  because good code should be free
+```
 
----
+## Featured Projects
 
-## 💻 Tech Stack
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [youtube-auto-dub](https://github.com/mangodxd/youtube-auto-dub) | AI-powered video dubbing pipeline — transcribe, translate, synthesize | Python, Whisper, Edge-TTS |
+| [commit-bot](https://github.com/mangodxd/commit-bot) | Human-like git contribution generator | Python, GitHub API |
+| [owasp-agentic-scanner](https://github.com/mangodxd/owasp-agentic-scanner) | Security scanner for AI agents and LLM apps | Python |
+| [auto-portfolio-generator](https://github.com/mangodxd/auto-portfolio-generator) | Generate portfolio sites from GitHub profiles | Python |
+| [Claudest](https://github.com/mangodxd/Claudest) | Plugin marketplace for Claude Code | — |
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Tech I Reach For
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=mangodxd&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://streak-stats.demolab.com/?user=mangodxd&theme=transparent&hide_border=false)  
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mangodxd&theme=transparent&layout=compact)
+<div align="center">
 
----
+![Stats](https://github-readme-stats.vercel.app/api?username=mangodxd&theme=transparent&show_icons=true&hide_border=true)
 
-## 🏆 GitHub Trophies
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mangodxd&theme=transparent&layout=compact&hide_border=true)
 
-![](https://github-profile-trophy.vercel.app/?username=mangodxd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=mangodxd&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=mangodxd&icon=0&color=0)
+<div align="center">
+
+*"The best code is the code that doesn't need to exist."*
+
+</div>
