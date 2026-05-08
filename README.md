@@ -48,9 +48,9 @@ Open Source         →  because good code should be free
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mangodxd&theme=transparent&show_icons=true&hide_border=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=mangodxd&theme=tokyonight&show_icons=true&hide_border=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mangodxd&theme=transparent&layout=compact&hide_border=true)
+![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mangodxd&theme=tokyonight&layout=compact&hide_border=true)
 
 </div>
 
