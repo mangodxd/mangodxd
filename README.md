@@ -77,8 +77,9 @@ while True:
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mangodxd&show_icons=true&theme=transparent&hide_border=true&icon_color=667eea&text_color=888&title_color=764ba2&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangodxd&layout=compact&theme=transparent&hide_border=true&title_color=764ba2&text_color=888&cache_seconds=86400" height="165"/>
+  <a href="https://github.com/mangodxd/youtube-auto-dub"><img src="https://img.shields.io/github/stars/mangodxd/youtube-auto-dub?style=social"/></a>
+  <a href="https://github.com/mangodxd/Netryx-Nova"><img src="https://img.shields.io/github/stars/mangodxd/Netryx-Nova?style=social"/></a>
+  <a href="https://github.com/mangodxd/linkforge"><img src="https://img.shields.io/github/stars/mangodxd/linkforge?style=social"/></a>
 </p>
 
 <div align="center">
