@@ -7,11 +7,9 @@
 </h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/born-2011-764ba2?style=for-the-badge"/>
   <a href="https://github.com/mangodxd?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?label=repos&query=$.public_repos&url=https://api.github.com/users/mangodxd&style=for-the-badge&logo=github&color=667eea"/>
-  </a>
-  <a href="https://github.com/mangodxd?tab=stars">
-    <img src="https://img.shields.io/badge/dynamic/json?label=stars&query=$.total_stars&url=https://api.github.com/users/mangodxd&style=for-the-badge&logo=stackoverflow&color=764ba2"/>
   </a>
 </p>
 
@@ -79,12 +77,8 @@ while True:
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mangodxd&show_icons=true&theme=transparent&hide_border=true&icon_color=667eea&text_color=888&title_color=764ba2" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangodxd&layout=compact&theme=transparent&hide_border=true&title_color=764ba2&text_color=888" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mangodxd&theme=onestar&no-frame=true&column=6&margin-w=15"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mangodxd&show_icons=true&theme=transparent&hide_border=true&icon_color=667eea&text_color=888&title_color=764ba2&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangodxd&layout=compact&theme=transparent&hide_border=true&title_color=764ba2&text_color=888&cache_seconds=86400" height="165"/>
 </p>
 
 <div align="center">
