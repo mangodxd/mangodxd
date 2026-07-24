@@ -3,13 +3,13 @@
 </div>
 
 <h3 align="center">
-  <samp>15 · Vietnam · building things that matter</samp>
+  <samp>15y · Vietnam · building things that matter</samp>
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/born-2011-764ba2?style=for-the-badge"/>
   <a href="https://github.com/mangodxd?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?label=repos&query=$.public_repos&url=https://api.github.com/users/mangodxd&style=for-the-badge&logo=github&color=667eea"/>
+    <img src="https://img.shields.io/badge/dynamic/json?label=repos&query=%24.public_repos&url=https://api.github.com/users/mangodxd&style=for-the-badge&logo=github&color=667eea"/>
   </a>
 </p>
 
@@ -77,9 +77,7 @@ while True:
 ```
 
 <p align="center">
-  <a href="https://github.com/mangodxd/youtube-auto-dub"><img src="https://img.shields.io/github/stars/mangodxd/youtube-auto-dub?style=social"/></a>
-  <a href="https://github.com/mangodxd/Netryx-Nova"><img src="https://img.shields.io/github/stars/mangodxd/Netryx-Nova?style=social"/></a>
-  <a href="https://github.com/mangodxd/linkforge"><img src="https://img.shields.io/github/stars/mangodxd/linkforge?style=social"/></a>
+  <img src="https://streak-stats.demolab.com/?user=mangodxd&theme=transparent&hide_border=true&ring=667eea&fire=764ba2&currStreakLabel=764ba2"/>
 </p>
 
 <div align="center">
